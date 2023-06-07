@@ -1,6 +1,6 @@
 .card-projects {
     display: flex;
-    background-color: #7C5E99;
+    background-color: #0A66C2;
     justify-content: center;
     width: 280px;
     height: 280px;
@@ -9,4 +9,8 @@
 
 .card-projects.-blue{
     background-color: #4C5B84;
+}
+
+.card-projects.-orange{
+    background-color: #FD1D1D;
 }
