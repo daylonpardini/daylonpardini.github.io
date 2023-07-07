@@ -1,0 +1,9 @@
+.sobre{
+    background-color: #505ABA;
+    overflow: hidden;
+}
+
+.sobre .main-title.-second{
+    padding-top: 52px;
+    padding-bottom: 50px;
+}
