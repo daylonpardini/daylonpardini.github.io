@@ -2,7 +2,7 @@
     color:#FFFFFF;
     text-decoration: none;
     text-align: center;
-    font-family: "Fira Code" Arial, Helvetica, sans-serif;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
     font-size: 20px;
     display: inline-block;
     box-shadow: 5px 5px #000000;
@@ -16,5 +16,5 @@
 }
 
 .button-link:hover{
-    transform: scale(1.08)
+    transform: scale(1.08);
 }

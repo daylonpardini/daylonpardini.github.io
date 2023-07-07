@@ -3,6 +3,7 @@
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #31A708;
+    overflow: hidden;
 }
 
 .section-skills .main-title{
