@@ -1,6 +1,7 @@
 .sobre{
     background-color: #505ABA;
     overflow: hidden;
+    border-bottom: 10px solid #000;
 }
 
 .sobre .main-title.-second{
