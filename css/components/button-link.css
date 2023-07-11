@@ -18,3 +18,14 @@
 .button-link:hover{
     transform: scale(1.08);
 }
+
+.button-link.-full{
+    background-color: #31A708;
+    width: 100%;
+    margin-bottom: 47px;
+    margin-top: 40px;
+}
+
+.button-link.-full:hover{
+    transform: scale(1.01);
+}

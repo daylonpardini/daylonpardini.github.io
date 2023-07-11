@@ -347,20 +347,26 @@
         </section>
         <script src="js/components/main-carousel.js"></script>
 
-        <form>
+        <section class="main-form">
 
-            <label class="main-label" for="name">Nome</label>
-            <input class="main-input" id="name" type="text">
+            <title class="main-title -second">Contato</title>
 
-            <label class="main-label" for="email">Email</label>
-            <input class="main-input" id="email" type="email">
-             
-            <label class="main-label" id="message">Mensagem</label>
-            <textarea class="main-input -textarea" id="message"></textarea>
+            <form>
 
-            <button type="submit">Enviar</button>
+                <label class="main-label" for="name">Nome</label>
+                <input class="main-input" id="name" type="text" required>
 
-        </form>
+                <label class="main-label" for="email">Email</label>
+                <input class="main-input" id="email" type="email" required>
+                
+                <label class="main-label" id="message">Mensagem</label>
+                <textarea class="main-input -textarea" id="message" required></textarea>
+
+                <button class="button-link -full" type="submit">Enviar</button>
+
+            </form>
+
+        </section>
 
         <footer class="main-footer">
             <a class="actions" href="https://twitter.com/Dayloon" target="_blank">
